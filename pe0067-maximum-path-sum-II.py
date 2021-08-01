@@ -14,7 +14,7 @@ NOTE: This is a much more difficult version of Problem 18. It is not possible to
 
 '''
 
-f = open('p067_triangle.txt')
+f = open('pe0067_triangle.txt')
 tr = f.read()
 f.close()
 tr = tr.split('\n')[::-1]
